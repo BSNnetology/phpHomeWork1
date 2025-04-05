@@ -17,7 +17,7 @@
         echo "Переменная типа: bool\n";
     } elseif (is_string($variable)) {
         echo "Переменная типа: string\n";
-    }else {
+    } else {
         echo "Переменная типа: other\n";
     }
 
